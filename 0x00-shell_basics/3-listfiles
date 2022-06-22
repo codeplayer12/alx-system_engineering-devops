@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -ln --time-style=+''
+ ls -lln --time-style=+'%j'
