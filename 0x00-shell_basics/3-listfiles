@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lan --time-style=+''
+ls -ln --time-style=+''
